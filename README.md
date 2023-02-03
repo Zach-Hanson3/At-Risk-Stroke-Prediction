@@ -60,6 +60,7 @@ For this data set there is 5,110 rows, and 11 columns.
 - If the unknown entries were discovered, it may swing the data more drastically in one direction.
     - This effect most likely be most impactful in the "yes" category with such a small amount of data
     
+    
 
 
 ![alt text](https://github.com/Zach-Hanson3/At-Risk-Stroke-Prediction/blob/main/photo_directory/Age%20vs%20Stroke%20Trend.PNG)
@@ -67,6 +68,8 @@ For this data set there is 5,110 rows, and 11 columns.
 - People who did not have a stroke have a fairly average age of just over 40 years old.
 - People who did have a stroke have a median age of just over 70.
 - We can see the median age of people who have had a stroke is much higher, about 30 years, than people who have not had a stroke.
+
+
 
 
 ## Model
