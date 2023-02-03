@@ -11,7 +11,7 @@ Data obtained from: https://www.kaggle.com/datasets/fedesoriano/stroke-predictio
 
 For this data set there is 5,110 rows, and 11 columns. 
 
-#### Data Dictionary
+#### Data Dictionary:
 ![alt text](https://github.com/Zach-Hanson3/At-Risk-Stroke-Prediction/blob/main/photo_directory/datadict.PNG)
 
 
