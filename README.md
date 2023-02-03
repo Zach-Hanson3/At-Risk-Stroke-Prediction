@@ -16,7 +16,7 @@ For this data set there is 5110 rows, and 11 columns.
 
 
 ## Methods
-
+- 
 
 ## Results
 ### Exploratory Data Analysis
@@ -26,20 +26,19 @@ For this data set there is 5110 rows, and 11 columns.
 ### Explanatory Data Analysis
 ![alt text](https://github.com/Zach-Hanson3/At-Risk-Stroke-Prediction/blob/main/photo_directory/Stroke%20vs%20Smoking%20Trend.PNG)
 
+
 ![alt text](https://github.com/Zach-Hanson3/At-Risk-Stroke-Prediction/blob/main/photo_directory/Age%20vs%20Stroke%20Trend.PNG)
+
 
 ## Model
 ### Models Used:
-
+- L
 
 ### Results of Models
 
 
 ## Recommendations
 
-### Feature Recommendations:
-
-  
 ### Model Recommendation:
 
 
