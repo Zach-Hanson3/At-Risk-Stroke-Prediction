@@ -8,6 +8,7 @@ In this problem we are trying to predict whether or not a person is at risk of a
 ### Data
 #### Source:
 Data obtained from: https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
+
 For this data set there is 5,110 rows, and 11 columns. 
 
 #### Data Dictionary
