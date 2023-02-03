@@ -11,7 +11,7 @@ Data obtained from: https://www.kaggle.com/datasets/fedesoriano/stroke-predictio
 For this data set there is 5110 rows, and 11 columns. 
 
 #### Data Dictionary
-![alt text](png link here)
+![alt text](https://github.com/Zach-Hanson3/At-Risk-Stroke-Prediction/blob/main/photo_directory/datadict.PNG)
 
 
 
@@ -20,13 +20,13 @@ For this data set there is 5110 rows, and 11 columns.
 
 ## Results
 ### Exploratory Data Analysis
-![alt text](png link here)
+![alt text](https://github.com/Zach-Hanson3/At-Risk-Stroke-Prediction/blob/main/photo_directory/Correlation_Heatmap.PNG)
 
 
 ### Explanatory Data Analysis
-![alt text](png link here)
+![alt text](https://github.com/Zach-Hanson3/At-Risk-Stroke-Prediction/blob/main/photo_directory/Stroke%20vs%20Smoking%20Trend.PNG)
 
-
+![alt text](https://github.com/Zach-Hanson3/At-Risk-Stroke-Prediction/blob/main/photo_directory/Age%20vs%20Stroke%20Trend.PNG)
 
 ## Model
 ### Models Used:
